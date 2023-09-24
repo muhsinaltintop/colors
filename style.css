@@ -1,0 +1,45 @@
+* {
+  background-color: white;
+}
+.color {
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+}
+.red:hover {
+  background-color: red;
+}
+
+.blue:hover {
+  background-color: #1ba8f0;
+}
+.orange:hover {
+  background-color: #ff7a1d;
+}
+.green:hover {
+  background-color: #256525;
+}
+.yellow:hover {
+  background-color: #fefd27;
+}
+
+.color-title {
+  color: grey;
+  font-weight: normal;
+}
+
+.red-title:hover {
+  color: red;
+}
+.blue-title:hover {
+  color: #1ba8f0;
+}
+.orange-title:hover {
+  color: #ff7a1d;
+}
+.green-title:hover {
+  color: #256525;
+}
+.yellow-title:hover {
+  color: #fefd27;
+}
